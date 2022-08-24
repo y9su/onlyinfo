@@ -5,7 +5,7 @@ onlyinfo
    :alt: PyPI version info
 
 
-A simple OnlyFiles link parser written in Python.
+A simple OnlyFiles information retriever written in Python.
 
 Key Features
 -------------
