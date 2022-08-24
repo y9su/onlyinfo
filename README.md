@@ -1,4 +1,4 @@
-discord.py
+onlyinfo
 ==========
 .. image:: https://img.shields.io/pypi/v/discord.py.svg
    :target: https://pypi.org/project/onlyinfo/
@@ -43,4 +43,4 @@ Quick Example
     song_title = my_scraper.title
     print(download_link)
     print(song_title)
-
+------
