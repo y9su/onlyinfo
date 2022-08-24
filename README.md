@@ -21,12 +21,11 @@ Installing
 To install the library without full voice support, you can just run the following command:
 
 ```sh
+# Linux/macOS
+python3 -m pip install -U onlyinfo
 
-    # Linux/macOS
-    python3 -m pip install -U onlyinfo
-
-    # Windows
-    py -3 -m pip install -U onlyinfo
+# Windows
+py -3 -m pip install -U onlyinfo
 ```
 
 Quick Example
