@@ -31,9 +31,7 @@ To install the library without full voice support, you can just run the followin
 
 Quick Example
 --------------
-
-.. code:: py
-
+```python
     import onlyinfomain as only
     
     my_scraper = only.Scraper()
@@ -43,4 +41,5 @@ Quick Example
     song_title = my_scraper.title
     print(download_link)
     print(song_title)
+```
 ------
